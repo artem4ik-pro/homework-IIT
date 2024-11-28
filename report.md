@@ -41,7 +41,18 @@
 <br>
 []()
 
-![alt text](image.png)
+#### Создаём локальный репозиторий
+![image](https://github.com/user-attachments/assets/d878aae6-7f32-4000-a242-010b3334a8ce)
+
+#### Появилась шмяпка .git
+![image](https://github.com/user-attachments/assets/15920ad4-8239-4dbd-85d9-c989d81e4236)
+
+
+#### Вносим изменения и делаем merge
+![image-2](https://github.com/user-attachments/assets/672f0973-3474-4307-b234-df7b4f4ea53e)
+
+
+
 
 
 
