@@ -39,7 +39,14 @@
 
 [1. Титульный лись](#titul)
 <br>
-[]()
+[2. Практика👇](#practica)
+<br>
+[3. Вывод](#end)
+
+<a name='practica'></a>
+#### Устанавливаем гит
+![image](https://github.com/user-attachments/assets/9f051359-cf8f-4908-8c83-9e0353c34370)
+
 
 #### Создаём локальный репозиторий
 ![image](https://github.com/user-attachments/assets/d878aae6-7f32-4000-a242-010b3334a8ce)
@@ -52,9 +59,18 @@
 ![image-2](https://github.com/user-attachments/assets/672f0973-3474-4307-b234-df7b4f4ea53e)
 
 
+#### Сделали пуш на гитхаб 
+![image](https://github.com/user-attachments/assets/437ce696-ee26-4378-a0ec-745899743902)
+
+
+#### Зогружаем сайд
+https://artem4ik-pro.github.io/
 
 
 
+# <font face='Comic Sans MS'>Вывод</font>
+<a name='end'></a>
+<font face='Comic Sans MS'>Научился использовать сервер Denver и запустил на нём свой сайт</font>
 
 
 
