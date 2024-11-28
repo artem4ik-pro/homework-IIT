@@ -70,7 +70,7 @@ https://artem4ik-pro.github.io/
 
 # <font face='Comic Sans MS'>Вывод</font>
 <a name='end'></a>
-<font face='Comic Sans MS'>Научился использовать сервер Denver и запустил на нём свой сайт</font>
+<font face='Comic Sans MS'>Научился использовать инструмент GIT и Github, а так же запустил на нём свой сайт</font>
 
 
 
